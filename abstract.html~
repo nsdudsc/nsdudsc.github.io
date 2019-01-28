@@ -23,7 +23,7 @@
 		  <li><a href="#">Archive</a></li>
 		<!---  <li><a href="#">Sponsorship </a></li> --> 
 		  <li><a href=keydates.html>Key dates</a></li>
-		  <li><a href=images/Abstract_2017.pdf>&nbsp; Abstract</a></li>
+		  <li><a href=abstract.html>&nbsp; Abstract</a></li>
 		  <li><a href="#">Awards</a></li>
 		  <li><a href="#">Photogallery</a></li>
 		  <li><a href=contact.html>&nbsp;&nbsp;Contact Us</a></li>
@@ -93,7 +93,7 @@ table, th, td {
 </head>
 <body>
 
-<table style="width:160%">
+<table style="width:170%">
 <tr>
 <th width="70%"height="10"><a href='images/Abstract Book NSD 2015 Combined.pdf'>2015 Abstract book</th></a>
 </tr>
