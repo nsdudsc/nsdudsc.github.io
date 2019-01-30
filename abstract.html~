@@ -20,9 +20,9 @@
 		  <li><a href="index.html">Home</a></li>
 		  <li><a href=quicklink.html>Quick links</a></li> 
                   <li><a href=images/COMMITTEE_MEMBERS_2019.pdf>Committee</a></li>
-		  <li><a href=archive.html>Archive</a></li>
-		  <!--li><a href="#">Sponsorship </a></li--> 
-		  <li><a href="#">Key dates</a></li>
+		  <li><a href="#">Archive</a></li>
+		<!---  <li><a href="#">Sponsorship </a></li> --> 
+		  <li><a href=keydates.html>Key dates</a></li>
 		  <li><a href=abstract.html>&nbsp; Abstract</a></li>
 		  <li><a href="#">Awards</a></li>
 		  <li><a href="#">Photogallery</a></li>
@@ -82,7 +82,7 @@
 
 <br>
 </br>
-<p align="center"><font size="6px" color="red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><u>Keydates</u></b></p></font>
+<p align="center"><font size="5px" color="red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><u>Abstract Corner</u></b></p></font>
 <html>
 <head>
 <style>
@@ -93,28 +93,18 @@ table, th, td {
 </head>
 <body>
 
-<table style="width:170%">
+<table style="width:160%">
 <tr>
-<th width="70%"height="10"><p><font color="black">NSD DAY1: Februray 27, 2019 </th></a</font>
+<th width="70%"height="10"><a href='images/Abstract Book NSD 2015 Combined.pdf'>2015 Abstract book</th></a>
 </tr>
 <tr>
-<th width="70%"height="10"><p><font color="black">NSD DAY2: Februray 28, 2019 </th></a></font>
+<th width="70%"height="10"><a href='images/Abstract Book 2016 Final.pdf'>2016 Abstract book</th></a>
 </tr>
 <tr>
-<th width="70%"height="10"><p><font color="black">Oral Presentation (Last date for abstract submission: 05th Feb 2019)</th></a></font>
+<th width="70%"height="10"><a href='images/Abstract_2017.pdf'>2017 Abstract book</th></a>
 </tr>
 <tr>
-<th width="70%"height="10"><p><font color="black">Poster Presentation (Last date for abstract submission : 05th Feb 2019)</th></a></font>
-</tr>
-<tr>
-  <th width="70%"height="10"><p><font color="black">Banner Design: (Last date of Registration: 05th Feb 2019)</th></a></font>
-</tr>
-<tr>
-  <th width="70%"height="10"><p><font color="black">Abstract Book Cover Page Design: (Last date of Registration:15th Feb 2019)</th></a></font>
-</tr>
-<tr>
-  <th width="70%"height="10"><p><font color="black">Idea Presentation: (only M.Sc. / M. Tech. Students) Last date of Registration 20thFeb 2019</th></a></font>
-
+<th width="70%"height="10"><a href='images/comingsoon.jpeg'>2019 Abstract book</th></a>
 </tr>
   </font></b></align>
 			    </form>		    
