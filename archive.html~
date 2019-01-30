@@ -23,7 +23,7 @@
 		  <li><a href="#">Archive</a></li>
 		<!---  <li><a href="#">Sponsorship </a></li> --> 
 		  <li><a href=keydates.html>Key dates</a></li>
-		  <li><a href=images/Abstract_2017.pdf>&nbsp; Abstract</a></li>
+		  <li><a href=abstract.html>&nbsp; Abstract</a></li>
 		  <li><a href="#">Awards</a></li>
 		  <li><a href="#">Photogallery</a></li>
 		  <li><a href=contact.html>&nbsp;&nbsp;Contact Us</a></li>
@@ -82,7 +82,7 @@
 
 <br>
 </br>
-<p align="center"><font size="6px" color="red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><u>Weblinks</u></b></p></font>
+<p align="center"><font size="5px" color="red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><u>NSD Preambles</u></b></p></font>
 <html>
 <head>
 <style>
@@ -93,27 +93,18 @@ table, th, td {
 </head>
 <body>
 
-<table style="width:170%">
+<table style="width:160%">
 <tr>
-<th width="70%"height="10"><a href="http://www.du.ac.in/du/">Univerity of Delhi</th></a>
+<th width="70%"height="10"><a href='images/2015_NSD_preamble.pdf'>Preamble 2015</th></a>
 </tr>
 <tr>
-<th width="70%"height="10"><a href="http://biochem.du.ac.in/web/">Department of Biochemistry</th></a>
+<th width="70%"height="10"><a href='images/Preamble_nsd_2016.pdf'>Preamble 2016</th></a>
 </tr>
 <tr>
-<th width="70%"height="10"><a href="http://biophysics.du.ac.in/">Department of Biophysics</th></a>
+<th width="70%"height="10"><a href='images/Preamble_NSD_2017.pdf'>Preamble 2017</th></a>
 </tr>
 <tr>
-<th width="70%"height="10"><a href="http://electronics.du.ac.in/">Department of Electronic Science</th></a>
-</tr>
-<tr>
-<th width="70%"height="10"><a href="http://genetics.du.ac.in/">Department of Genetics</th></a>
-</tr>
-<tr>
-<th width="70%"height="10"><a href="http://microbio.du.ac.in/web3/">Department of Microbiology</th></a>
-</tr>
-<tr>
-<th width="70%"height="10"><a href="http://www.dpmb.ac.in/">Department of Plant Molecular Biology</th></a>
+<th width="70%"height="10"><a href='images/comingsoon.jpeg'>Preamble 2019</th></a>
 </tr>
   </font></b></align>
 			    </form>		    
